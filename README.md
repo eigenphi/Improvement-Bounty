@@ -24,7 +24,7 @@ Click the smiley face of the message containing the entry you will like to vote 
 
 Just click the "thump up" emoji to show your love!
 
-What if I want to cancel my vote?
+## What if I want to cancel my vote?
 
 Click the "thumb up" emoji under the message to revoke your vote as shown below:
 

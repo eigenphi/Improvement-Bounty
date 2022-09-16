@@ -1,6 +1,8 @@
 # Improvement-Bounty
 
-This is a continuation of the series of bounty programs created for both our certified and prospective members.  To show an appreciation for external and internal contributions, EigenPhi maintains a Bug and Improvement Bounty Program designed to reward responsible disclosure of qualifying security vulnerabilities.
+This is a continuation of the series of bounty programs created for both our certified and prospective members.  To show an appreciation for external and internal contributions, EigenPhi maintains a Bug and Improvement Bounty Program that is designed to reward responsible disclosure of qualifying bugs and improvements regarding our new tool “EigenTx”. 
+
+EigenTx is a public-facing data visualization tool on various chains, which aims to help understand the details of any on-chain transactions, whether straightforward or complex. 
 
 ## How to submit an entry for the Improvement bounty?
 Just submit it as an issue. Here are the detailed steps.

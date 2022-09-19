@@ -6,7 +6,7 @@ EigenTx is a public-facing data visualization tool on various chains, which aims
 
 ## How to submit an entry for the Improvement bounty?
 ### Method 1
-1. Use EigenPhi to find any transactions you are interested in, apply EigenTx Analysis tool to discover more.
+1. Use EigenPhi to find any transactions you are interested in, Click EigenTx Analysis tool button to discover more.
 
 ![image](https://user-images.githubusercontent.com/106327351/190993527-5e0fc7b7-4da8-4d7c-947b-be5bb4ae304c.png)
 

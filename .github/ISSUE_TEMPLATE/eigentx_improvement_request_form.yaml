@@ -1,0 +1,20 @@
+name: Improvement request
+description: "File an improvement request"
+title: "sample: support Euler Flashloan"
+labels: ["EigenTx", "Improvement"]
+body:
+  - type: input
+    id: txhash
+    attributes:
+      label: Transaction Hash
+      placeholder: "e.g. 0x1922810ecbce882ae37ac41768b40e03589dc07225b30d7208dcbb1f96799eb5"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Tell us how to improve EigenTx
+      value: "https://tx.eigenphi.io/analyseTransaction%3Ftx=0x1922810ecbce882ae37ac41768b40e03589dc07225b30d7208dcbb1f96799eb5"
+    validations:
+      required: true
